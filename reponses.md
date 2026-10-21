@@ -3,3 +3,4 @@
 
 3.2: setState() permet de signaler à Flutter qu'un changement d'état nécessite une mise à jour de l'interface
 3.5 ListTileControlAffinity.leading place la case à cocher à gauche du titre. C'est cette valeur que l'on conserve
+4.5 Clip.antiAlias permet de limiter l’effet d’encre aux limites arrondies de la carte et d’éviter qu’il déborde dans les coins
